@@ -215,7 +215,7 @@ section {
 /* About Section */
 .about__section {
     margin: 1rem 0rem;
-    padding: 2rem 0rem;
+    padding: 2rem 1rem;
     background-color: #403d42;
     text-align: center;
 }
@@ -224,7 +224,7 @@ section {
 p {
     margin: 1rem;
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
 .about__head {
